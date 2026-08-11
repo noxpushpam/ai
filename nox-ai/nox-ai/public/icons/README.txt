@@ -1,0 +1,1 @@
+Icons: add icon-192.png and icon-512.png in public/icons for full PWA
